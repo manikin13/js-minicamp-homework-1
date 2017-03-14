@@ -1,0 +1,15 @@
+Feynman writing Prompts
+Variables: A variable is a place holder that is assigned a value. This place holder is an easier way to call that value later in
+the program, and / or changed.
+
+Strings: A string is a non-numeric value. It has length but cannot be used nemerically without conversion to a number.
+
+Functions: A function is a code snippet that runs when called. It can take values in, and return an answer based on what the code
+snippet is supposed to do. ie take in 2 numbers (arguments), and return the sum of the two (answer)
+
+If statements: When a multiple choice of solutions is possible for an input, an If statement checks to see which solution matches the
+input best, and executes the response based on the match. If no match is found the last case - no match response is returned.
+
+Boolean Values: If a response or input can be one of two possabilities it is considered a boolean value. They can be True/False, 0/1,
+Open/Close, Yes/No. Ie there are 10 types of people in the world, Those who understand Binary ..., There are 2 types of people in the
+world, those who can extrapolate from incomlete data.
